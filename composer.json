@@ -1,0 +1,13 @@
+{
+  "repositories": [],
+  "require": {
+    "guzzlehttp/guzzle"                   : "~5.2.0",
+    "guzzlehttp/streams"                  : "~3.0.0",
+    "doctrine/cache"                      : "~1.4.0",
+    "monolog/monolog"                     : "~1.12.0",
+    "kmelia/monolog-stdout-handler"       : "~1.2.0"
+  },
+  "ye-olde-and-unused" : {
+    "php-curl-class/php-curl-class"       : "~2.1.0"
+  }
+}
